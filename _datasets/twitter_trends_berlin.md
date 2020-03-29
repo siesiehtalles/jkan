@@ -4,7 +4,7 @@ title: Twitter Trends in Berlin, Germany
 organization: Twitter
 notes: Provides twitter trends in/around Berlin
 resources:
-  - name: REST API Call
+  - name: https://ipuzs6skt6.execute-api.eu-central-1.amazonaws.com/query/twitter_trends
     url: 'https://ipuzs6skt6.execute-api.eu-central-1.amazonaws.com/query/twitter_trends'
     format: json
 license: -/-
