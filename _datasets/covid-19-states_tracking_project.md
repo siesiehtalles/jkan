@@ -13,6 +13,6 @@ resources:
 license: -/-
 category:
   - Health / Human Services
-maintainer: Florian & Jonathan
-maintainer_email: admin@siesiehtalles.de
+maintainer: https://covidtracking.com/api/
+maintainer_email: https://covidtracking.com/api/
 ---
