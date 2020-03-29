@@ -1,7 +1,7 @@
 ---
 schema: default
 title: COVID-19 Tracking Project (United States)
-organization:
+organization: COVID-19 Datasets
 notes: Provides covid-19 data for United States - Current Values & Historical Values
 resources:
   - name: States Current Values
