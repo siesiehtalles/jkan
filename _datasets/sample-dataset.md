@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Sample dataset
+title: Test datenset von Flo
 organization: Sample Department
 notes: This is an example dataset that comes with a new installation of JKAN
 resources:
