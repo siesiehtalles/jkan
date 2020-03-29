@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Lufthansa Flights from FRA to TXL
-organization: Lufthansa
+organization: Lufthansa Datasets
 notes: Provides number of flights per day from Frankfurt to Berlin Tegel
 resources:
   - name: https://ipuzs6skt6.execute-api.eu-central-1.amazonaws.com/query/lufthansa_flights
