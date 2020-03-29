@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Top Twitter Words in Tweets regarding Corona
+title: Top used Words in Tweets regarding Corona
 organization: COVID-19 Datasets
 notes: Provides top used words in tweets from last two minutes which contain the word 'corona' or 'COVID-19'
 resources:
