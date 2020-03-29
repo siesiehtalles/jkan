@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 'Personal in Krankenhäusern: Deutschland, Stichtag'
+title: 'Personal in Krankenhäusern: Deutschland, Stichtag 1991 - 2017'
 organization: Government Datasets
 notes: 'Personal in Krankenhäusern: Deutschland, Stichtag: https://www.govdata.de/web/guest/suchen/-/details/personal-in-krankenhausern-deutschland-stichtag'
 resources:
@@ -16,6 +16,6 @@ resources:
 license: free
 category:
   - Health / Human Services
-maintainer: Florian & Jonathan
+maintainer: Statistisches Bundesamt
 maintainer_email: admin@siesiehtalles.de
 ---
