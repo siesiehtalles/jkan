@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 729b133e2905ae8ac423
+gatekeeper_host: ec2-3-121-100-90.eu-central-1.compute.amazonaws.com:9999
 
 # Dataset schema
 schema: default
