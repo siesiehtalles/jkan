@@ -17,5 +17,5 @@ license: free
 category:
   - Health / Human Services
 maintainer: Statistisches Bundesamt
-maintainer_email: admin@siesiehtalles.de
+maintainer_email: unknown
 ---
