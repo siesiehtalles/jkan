@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Robert-Koch-Institut Coronavirus infiziert nach Altersgruppe
-organization: Sample Department
+organization: COVID-19 Datasets
 notes: This is an example dataset that comes with a new installation of JKAN
 resources:
   - name: Dataset
