@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Robert-Koch-Institut Coronavirus by age group
+title: Robert-Koch-Institut Coronavirus Infections by Age Group
 organization: COVID-19 Datasets
 notes: Provides data from Robert Koch Institute on corona cases and deaths by age group
 resources:
