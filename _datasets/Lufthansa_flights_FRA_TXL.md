@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Lufthansa Flights from FRA to TXL
-organization: 
+organization: Lufthansa
 notes: Provides number of flights per day from Frankfurt to Berlin Tegel
 resources:
   - name: REST API Call

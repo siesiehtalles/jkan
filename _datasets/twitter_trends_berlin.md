@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Twitter Trends in Berlin, Germany
-organization: 
+organization: Twitter
 notes: Provides twitter trends in/around Berlin
 resources:
   - name: REST API Call
